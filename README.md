@@ -1,2 +1,26 @@
-# vue-typescript-element-admin
-vue+ts+element后台管理项目
+# node版本v8.11.1
+
+## vue-test-demo
+
+### Project setup
+```
+npm install
+```
+
+#### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+#### Compiles and minifies for production
+```
+npm run build
+```
+
+#### Lints and fixes files
+```
+npm run lint
+```
+
+#### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
